@@ -1,0 +1,3 @@
+[submodule "ZMK_firmware"]
+	path = ZMK_firmware
+	url = https://github.com/aL1fe/ErgoFlow_Wing-A_firmware.git
