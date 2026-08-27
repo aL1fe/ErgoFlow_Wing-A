@@ -85,7 +85,7 @@ ZMK_firmware/
 
 The firmware repository contains the ZMK configuration, keymap, board configuration, and build files.
 
-### Clone the repository with the firmware submodule
+## Clone the repository with the firmware submodule
 
 To clone the project together with all Git submodules, use:
 
@@ -93,7 +93,7 @@ To clone the project together with all Git submodules, use:
 git clone --recurse-submodules https://github.com/aL1fe/ErgoFlow_Wing-A.git
 ```
 
-### Keymap editor
+## Keymap editor
 
 The keyboard keymap can be conveniently edited using the [ZMK Keymap Editor](https://nickcoutsos.github.io/keymap-editor/).
 The editor provides a graphical interface for configuring the keyboard keymap.
